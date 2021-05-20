@@ -1,5 +1,6 @@
-**Info
-Navn: Alexander, Bedre kendt som Al3X 
+**Info**
+<br>
+Navn: Alexander, Bedre kendt som Al3X
 <br>
 Alder: Ukendt
 
