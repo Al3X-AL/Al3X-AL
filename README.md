@@ -1,13 +1,5 @@
-### Yooo ham der Andi her! :smiley:
-
-<br />
-<br />
-
----
-
-
 ## Om mig!
-- Navn: Andreas AKA Andi
+- Navn: Alex, Bedre kendt som Al3X
 - Alder: Ukendt
 
 
