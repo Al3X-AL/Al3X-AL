@@ -10,11 +10,11 @@
 
 
 ## Sporg jeg kan!
-
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=appveyor=visual-studio-code&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=appveyor=html5&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=appveyor=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=appveyor=css3)
+-Lua
+-JQuery
+-Html
+-Css
+-Igang med at lærer Mysql
 
 
 <br />
