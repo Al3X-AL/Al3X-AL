@@ -10,11 +10,11 @@
 
 
 ## Sporg jeg kan!
--Lua
--JQuery
--Html
--Css
--Igang med at lærer Mysql
+-Lua <br>
+-JQuery <br>
+-Html <br>
+-Css <br>
+-Igang med at lærer Mysql <br>
 
 
 <br />
